@@ -9,3 +9,14 @@ D:\C# projects\self projects\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.GenerateResou
 D:\C# projects\self projects\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
 D:\C# projects\self projects\Sudoku\Sudoku\obj\Debug\Sudoku.exe
 D:\C# projects\self projects\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
+D:\для автомата\Sudoku_and_tic-tac-toe\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+D:\для автомата\Sudoku_and_tic-tac-toe\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+D:\для автомата\Sudoku_and_tic-tac-toe\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+D:\для автомата\Sudoku_and_tic-tac-toe\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.AssemblyReference.cache
+D:\для автомата\Sudoku_and_tic-tac-toe\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.SuggestedBindingRedirects.cache
+D:\для автомата\Sudoku_and_tic-tac-toe\Sudoku\Sudoku\obj\Debug\Sudoku.Form1.resources
+D:\для автомата\Sudoku_and_tic-tac-toe\Sudoku\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+D:\для автомата\Sudoku_and_tic-tac-toe\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.cache
+D:\для автомата\Sudoku_and_tic-tac-toe\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+D:\для автомата\Sudoku_and_tic-tac-toe\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+D:\для автомата\Sudoku_and_tic-tac-toe\Sudoku\Sudoku\obj\Debug\Sudoku.pdb

@@ -1,0 +1,11 @@
+D:\C# projects\self projects\tic-tac-toe\tic-tac-toe\bin\Debug\tic-tac-toe.exe.config
+D:\C# projects\self projects\tic-tac-toe\tic-tac-toe\bin\Debug\tic-tac-toe.exe
+D:\C# projects\self projects\tic-tac-toe\tic-tac-toe\bin\Debug\tic-tac-toe.pdb
+D:\C# projects\self projects\tic-tac-toe\tic-tac-toe\obj\Debug\tic-tac-toe.csproj.AssemblyReference.cache
+D:\C# projects\self projects\tic-tac-toe\tic-tac-toe\obj\Debug\tic-tac-toe.csproj.SuggestedBindingRedirects.cache
+D:\C# projects\self projects\tic-tac-toe\tic-tac-toe\obj\Debug\tic_tac_toe.Form1.resources
+D:\C# projects\self projects\tic-tac-toe\tic-tac-toe\obj\Debug\tic_tac_toe.Properties.Resources.resources
+D:\C# projects\self projects\tic-tac-toe\tic-tac-toe\obj\Debug\tic-tac-toe.csproj.GenerateResource.cache
+D:\C# projects\self projects\tic-tac-toe\tic-tac-toe\obj\Debug\tic-tac-toe.csproj.CoreCompileInputs.cache
+D:\C# projects\self projects\tic-tac-toe\tic-tac-toe\obj\Debug\tic-tac-toe.exe
+D:\C# projects\self projects\tic-tac-toe\tic-tac-toe\obj\Debug\tic-tac-toe.pdb

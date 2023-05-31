@@ -59,6 +59,21 @@ namespace tic_tac_toe
                     restartGame();
                 }
             }
+            if(drawCheck())
+            {
+                for (int i = 0; i < 3; i++)
+                {
+                    for (int j = 0; j < 3; j++)
+                    {
+                        buttons[i, j].Enabled = false;
+                    }
+                }
+                DialogResult res = MessageBox.Show($"Ничьчя", "Конец игры", MessageBoxButtons.RetryCancel, MessageBoxIcon.Information);
+                if (res == DialogResult.Retry)
+                {
+                    restartGame();
+                }
+            }
             else
             {
                 player = player == 1 ? 2 : 1;
@@ -101,6 +116,25 @@ namespace tic_tac_toe
             {
                 win = true;
             }
+            return win;
+        }
+
+        private bool drawCheck()
+        {
+            bool win = false;
+            int unactiveButtons = 0;
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    if (buttons[i,j].Enabled == false)
+                    {
+                        unactiveButtons++;
+                    }
+                }
+            }
+            if(unactiveButtons == buttons.Length)
+                win = true;
             return win;
         }
 
